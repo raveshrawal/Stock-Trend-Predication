@@ -19,7 +19,6 @@ Each model uses historical stock price data and predicts future prices using dif
 │   ├── Google_train_data.csv             # Google training data
 │   └── Google_test_data.csv              # Google testing data
 ├── requirements.txt                      # Python dependencies
-├── .gitignore                            # Git ignore rules
 └── README.md                             # Project documentation
 ```
 
